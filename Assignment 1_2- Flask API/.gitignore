@@ -1,0 +1,21 @@
+# env
+.venv/
+venv/
+.env
+env/
+.flaskenv
+
+# node
+node_modules/**
+.serverless/**
+
+# cache
+.vscode
+.idea/
+__pycache__
+.DS_Store
+*.pyc
+*.pyo
+.cache/
+.pytest_cache/
+/tmp
